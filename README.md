@@ -84,13 +84,7 @@ Phase 6 ⏳  Full Industry 4.0 Engineer
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
 ![horaembedded's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoraEmbedded&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HoraEmbedded&layout=compact&theme=dark)
-
-</div>
 
 ---
 
