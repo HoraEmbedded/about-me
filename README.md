@@ -10,7 +10,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 I'm an electronic systems and automatic control student,
 building strong foundations to become an Industry 4.0 engineer.
@@ -86,9 +86,9 @@ Phase 6 ⏳  Full Industry 4.0 Engineer
 
 <div align="center">
 
-![horaembedded's GitHub stats](https://github-readme-stats.vercel.app/api?username=horaembedded&show_icons=true&theme=dark)
+![horaembedded's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoraEmbedded&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=horaembedded&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HoraEmbedded&layout=compact&theme=dark)
 
 </div>
 
@@ -97,7 +97,7 @@ Phase 6 ⏳  Full Industry 4.0 Engineer
 ## 📬 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/TONPROFIL)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:TONEMAIL@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:azonhoumonhoracia@gmail.com)
 
 ---
 
