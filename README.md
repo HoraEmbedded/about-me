@@ -18,9 +18,8 @@ I'm passionate about control systems, electronics, and
 the convergence of automation with embedded technologies.
 
 - 🎓 Currently studying **Electronic Systems & Automatic Control**
-  at **[Nom de ton école]**
+  at **ENSA Tanger**
 - 🌱 Currently learning **C programming, PLC basics & Control Theory**
-- 🔭 Working on **[Ton projet actuel]**
 - 🎯 Goal : **Industrial Automation & Embedded Systems Engineer**
 - 📍 Based in **Tangier, Morocco**
 - 📚 Always reading a technical book
