@@ -54,7 +54,7 @@ the convergence of automation with embedded technologies.
 
 ## 🎯 Learning Roadmap
 ```
-Phase 1 ✅  Electronic Systems & Control Theory
+Phase 1 🔄  Electronic Systems & Control Theory
 Phase 2 🔄  PLC Programming & Industrial Automation
 Phase 3 ⏳  Embedded Systems (STM32, FreeRTOS)
 Phase 4 ⏳  Industrial Networks & IIoT
@@ -68,15 +68,15 @@ Phase 6 ⏳  Full Industry 4.0 Engineer
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [Ton projet 1](#) | Description courte | Arduino, C |
-| [Ton projet 2](#) | Description courte | MATLAB, Simulink |
+| [](#) |  |  |
+| [](#) |  |  |
 
 ---
 
 ## 📚 Currently Reading
 
-> **[Titre du livre en cours]** — Auteur
-> *[Une phrase sur ce que tu en retires]*
+> **[]** — Auteur
+> *[]*
 
 📖 See all my book notes → [books-and-readings](#)
 
