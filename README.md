@@ -26,7 +26,7 @@ the convergence of automation with embedded technologies.
 
 ---
 
-##  Current Skills
+## Current Skills
 
 **Electronic Systems**
 
@@ -52,7 +52,7 @@ the convergence of automation with embedded technologies.
 
 ---
 
-##  Learning Roadmap
+## Learning Roadmap
 ```
 Phase 1 🔄  Electronic Systems & Control Theory
 Phase 2 🔄  PLC Programming & Industrial Automation
@@ -64,7 +64,7 @@ Phase 6 ⏳  Full Industry 4.0 Engineer
 
 ---
 
-##  Projects
+## Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
@@ -73,7 +73,7 @@ Phase 6 ⏳  Full Industry 4.0 Engineer
 
 ---
 
-## 📚 Currently Reading
+## Currently Reading
 
 > **[]** — Auteur
 > *[]*
@@ -82,13 +82,13 @@ Phase 6 ⏳  Full Industry 4.0 Engineer
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![horaembedded's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoraEmbedded&show_icons=true&theme=dark)
 
 ---
 
-## 📬 Connect With Me
+## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/TONPROFIL)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:azonhoumonhoracia@gmail.com)
