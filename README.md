@@ -17,16 +17,16 @@ building strong foundations to become an Industry 4.0 engineer.
 I'm passionate about control systems, electronics, and
 the convergence of automation with embedded technologies.
 
-- 🎓 Currently studying **Electronic Systems & Automatic Control**
+- Currently studying **Electronic Systems & Automatic Control**
   at **ENSA Tanger**
-- 🌱 Currently learning **C programming, PLC basics & Control Theory**
-- 🎯 Goal : **Industrial Automation & Embedded Systems Engineer**
-- 📍 Based in **Tangier, Morocco**
-- 📚 Always reading a technical book
+- Currently learning **C programming, PLC basics & Control Theory**
+- Goal : **Industrial Automation & Embedded Systems Engineer**
+- Based in **Tangier, Morocco**
+- Always reading a technical book
 
 ---
 
-## 🛠️ Current Skills
+##  Current Skills
 
 **Electronic Systems**
 
@@ -52,7 +52,7 @@ the convergence of automation with embedded technologies.
 
 ---
 
-## 🎯 Learning Roadmap
+##  Learning Roadmap
 ```
 Phase 1 🔄  Electronic Systems & Control Theory
 Phase 2 🔄  PLC Programming & Industrial Automation
@@ -64,7 +64,7 @@ Phase 6 ⏳  Full Industry 4.0 Engineer
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
